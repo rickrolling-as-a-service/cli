@@ -1,0 +1,9 @@
+{
+  "name": "@raas/cli",
+  "version": "0.0.1",
+  "description": "The CLI for RaaS.",
+  "main": "cli.js",
+  "author": "Felix Mattick",
+  "license": "UNLICENSED",
+  "private": false
+}
