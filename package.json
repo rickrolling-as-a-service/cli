@@ -6,6 +6,9 @@
     "ship": "np"
   },
   "main": "cli.js",
+  "bin": {
+    "raas": "./cli.js"
+  },
   "author": "Felix Mattick",
   "license": "UNLICENSED",
   "repository": {
