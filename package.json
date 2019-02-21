@@ -1,5 +1,5 @@
 {
-  "name": "@raas/cli",
+  "name": "raas-cli",
   "version": "0.0.1",
   "description": "The CLI for RaaS.",
   "scripts": {
