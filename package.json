@@ -2,9 +2,16 @@
   "name": "@raas/cli",
   "version": "0.0.1",
   "description": "The CLI for RaaS.",
+  "scripts": {
+    "ship": "np"
+  },
   "main": "cli.js",
   "author": "Felix Mattick",
   "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rickrolling-as-a-service/cli.git"
+  },
   "private": false,
   "devDependencies": {
     "np": "^4.0.2"
